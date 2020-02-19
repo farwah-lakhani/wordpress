@@ -1,0 +1,8 @@
+2020-02-18T14:06:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2030
+
+2020-02-18T14:07:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\l10n.php on line 288
+
+2020-02-18T14:07:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\Divi\includes\builder\module\Signup.php on line 1257
+
+2020-02-18T14:54:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1636
+
